@@ -1,3 +1,0 @@
-Hi Todd! This is a new file from Madison.
-
-I have created a new branch and updated this file.
